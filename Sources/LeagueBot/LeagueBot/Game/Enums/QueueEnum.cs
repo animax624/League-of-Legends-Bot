@@ -10,5 +10,6 @@ namespace LeagueBot.Game.Enums
     {
         BotIntro = 830,
         BotIntermediate = 850,
+        BotBeginner = 850,
     }
 }
